@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Krissie 👋</h1>
+<h3 align="center">Estudiante de Ciencia de Datos e Inteligencia Artificial</h3>
 
-<!--
-**Krissie2005/Krissie2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🤍 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudiante en la Universidad de Guayaquil  
+🔎 Me gusta ser curiosa y aprender siempre  
+💡 Interesada en análisis de datos y Machine Learning  
+
+---
+
+## 🧠 Proyectos
+
+🔹 <a href="https://github.com/Krissie2005/Analisis-de-opinion-en-repositorios-git"><b>Análisis de Opinión en Repositorios Git</b></a>  
+Análisis de sentimientos aplicado a comentarios de repositorios utilizando técnicas de procesamiento de texto en Python.
+
+<br>
+
+🔹 <a href="https://github.com/Krissie2005/agriProyecto"><b>AgriProyecto</b></a>  
+Proyecto orientado al sector agrícola donde se aplican técnicas de análisis de datos para apoyar la toma de decisiones.
+
+---
+
+## 🛠️ Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,html,css" />
+</p>
+
+---
+
+<h3 align="center">✨ Siempre aprendiendo algo nuevo ✨</h3>
