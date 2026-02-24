@@ -14,21 +14,12 @@
 ## 🧠 Proyectos
 
 🔹 <a href="https://github.com/Krissie2005/Analisis-de-opinion-en-repositorios-git"><b>Análisis de Opinión en Repositorios Git</b></a>  
-Análisis de sentimientos aplicado a comentarios de repositorios utilizando técnicas de procesamiento de texto en Python.
+Proyecto enfocado en el análisis de sentimientos aplicado a comentarios y contenido de repositorios en GitHub. Se utilizan técnicas de procesamiento de texto y análisis de datos en Python para identificar opiniones, clasificar emociones y obtener conclusiones a partir de la información recopilada.
 
 <br>
 
 🔹 <a href="https://github.com/Krissie2005/agriProyecto"><b>AgriProyecto</b></a>  
-Proyecto orientado al sector agrícola donde se aplican técnicas de análisis de datos para apoyar la toma de decisiones.
+Proyecto de clasificación supervisada para la estimación del riesgo de inundación (Bajo, Medio, Alto) a nivel parroquial en Ecuador. Se integran variables geoespaciales, climáticas y demográficas, y se implementa un modelo de ensamble basado en Random Forest, logrando alta capacidad de discriminación y sensibilidad en zonas de mayor riesgo.
 
 ---
-
-## 🛠️ Tecnologías
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,html,css" />
-</p>
-
----
-
 <h3 align="center">✨ Siempre aprendiendo algo nuevo ✨</h3>
